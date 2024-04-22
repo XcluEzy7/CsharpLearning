@@ -1,0 +1,15 @@
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/bin/Debug/net9.0/ConsoleApp-FirstOne
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/bin/Debug/net9.0/ConsoleApp-FirstOne.deps.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/bin/Debug/net9.0/ConsoleApp-FirstOne.runtimeconfig.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/bin/Debug/net9.0/ConsoleApp-FirstOne.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/bin/Debug/net9.0/ConsoleApp-FirstOne.pdb
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.GeneratedMSBuildEditorConfig.editorconfig
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.AssemblyInfoInputs.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.AssemblyInfo.cs
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.csproj.CoreCompileInputs.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.sourcelink.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/refint/ConsoleApp-FirstOne.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.pdb
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ConsoleApp-FirstOne.genruntimeconfig.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/ConsoleApp-FirstOne/obj/Debug/net9.0/ref/ConsoleApp-FirstOne.dll
