@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tutorial", "Tutorial", "{3C
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApp-FirstOne", "Tutorial\ConsoleApp-FirstOne\ConsoleApp-FirstOne.csproj", "{7AE80B35-5384-48AB-88E8-796CA10054A6}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Concepts", "Concepts", "{AF3C1F60-610F-4B57-8A27-CCDE3E734409}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepts1_Variables", "Tutorial\Concepts\Concepts1_Variables\Concepts1_Variables.csproj", "{70105C9A-B952-4E3B-B22B-1796872DC0F9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -20,8 +24,14 @@ Global
 		{7AE80B35-5384-48AB-88E8-796CA10054A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7AE80B35-5384-48AB-88E8-796CA10054A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7AE80B35-5384-48AB-88E8-796CA10054A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{70105C9A-B952-4E3B-B22B-1796872DC0F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70105C9A-B952-4E3B-B22B-1796872DC0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70105C9A-B952-4E3B-B22B-1796872DC0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70105C9A-B952-4E3B-B22B-1796872DC0F9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7AE80B35-5384-48AB-88E8-796CA10054A6} = {3C4CE4F6-1AB8-432C-B466-F6DA9A49E332}
+		{AF3C1F60-610F-4B57-8A27-CCDE3E734409} = {3C4CE4F6-1AB8-432C-B466-F6DA9A49E332}
+		{70105C9A-B952-4E3B-B22B-1796872DC0F9} = {AF3C1F60-610F-4B57-8A27-CCDE3E734409}
 	EndGlobalSection
 EndGlobal
