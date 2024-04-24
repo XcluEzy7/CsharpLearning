@@ -1,0 +1,15 @@
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/bin/Debug/net9.0/DataTypes1
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/bin/Debug/net9.0/DataTypes1.deps.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/bin/Debug/net9.0/DataTypes1.runtimeconfig.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/bin/Debug/net9.0/DataTypes1.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/bin/Debug/net9.0/DataTypes1.pdb
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.GeneratedMSBuildEditorConfig.editorconfig
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.AssemblyInfoInputs.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.AssemblyInfo.cs
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.csproj.CoreCompileInputs.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.sourcelink.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/refint/DataTypes1.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.pdb
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/DataTypes1.genruntimeconfig.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/DataTypes1/obj/Debug/net9.0/ref/DataTypes1.dll

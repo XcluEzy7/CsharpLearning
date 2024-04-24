@@ -11,6 +11,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Concepts", "Concepts", "{AF
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Concepts1_Variables", "Tutorial\Concepts\Concepts1_Variables\Concepts1_Variables.csproj", "{70105C9A-B952-4E3B-B22B-1796872DC0F9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Variables2", "..\Concepts\Variables2\Variables2\Variables2.csproj", "{54DED28B-9FE8-4056-A82B-1E25E2604B4A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataTypes1", "..\Concepts\DataTypes1\DataTypes1.csproj", "{D0E97568-5934-427E-A217-F7912E8137B4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -28,6 +32,14 @@ Global
 		{70105C9A-B952-4E3B-B22B-1796872DC0F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{70105C9A-B952-4E3B-B22B-1796872DC0F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{70105C9A-B952-4E3B-B22B-1796872DC0F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54DED28B-9FE8-4056-A82B-1E25E2604B4A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54DED28B-9FE8-4056-A82B-1E25E2604B4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54DED28B-9FE8-4056-A82B-1E25E2604B4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54DED28B-9FE8-4056-A82B-1E25E2604B4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0E97568-5934-427E-A217-F7912E8137B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0E97568-5934-427E-A217-F7912E8137B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0E97568-5934-427E-A217-F7912E8137B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0E97568-5934-427E-A217-F7912E8137B4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{7AE80B35-5384-48AB-88E8-796CA10054A6} = {3C4CE4F6-1AB8-432C-B466-F6DA9A49E332}

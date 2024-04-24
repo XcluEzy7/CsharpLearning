@@ -1,0 +1,15 @@
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/bin/Debug/net9.0/Concepts1_Variables
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/bin/Debug/net9.0/Concepts1_Variables.deps.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/bin/Debug/net9.0/Concepts1_Variables.runtimeconfig.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/bin/Debug/net9.0/Concepts1_Variables.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/bin/Debug/net9.0/Concepts1_Variables.pdb
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.GeneratedMSBuildEditorConfig.editorconfig
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.AssemblyInfoInputs.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.AssemblyInfo.cs
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.csproj.CoreCompileInputs.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.sourcelink.json
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/refint/Concepts1_Variables.dll
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.pdb
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/Concepts1_Variables.genruntimeconfig.cache
+/home/egsox/Documents/repo/CsharpLearning/Tutorial/Concepts/Concepts1_Variables/obj/Debug/net9.0/ref/Concepts1_Variables.dll
